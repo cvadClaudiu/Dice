@@ -1,2 +1,2 @@
 # Dice
-dice apps
+simple app that lets you roll various types of dice
